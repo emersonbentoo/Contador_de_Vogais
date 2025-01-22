@@ -1,1 +1,1 @@
-# Contador_de_Vogais
+Sou um programa simples em pythonpara contar numero de vogais em frases e textos. 
